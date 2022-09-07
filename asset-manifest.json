@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/DiceGame/static/css/main.f226285e.css",
+    "main.js": "/DiceGame/static/js/main.bf5fd5a3.js",
+    "static/js/787.65175d2f.chunk.js": "/DiceGame/static/js/787.65175d2f.chunk.js",
+    "static/media/6.jpg": "/DiceGame/static/media/6.47826fcc0351682c2eaf.jpg",
+    "static/media/5.jpg": "/DiceGame/static/media/5.84187613685e4f27b22c.jpg",
+    "static/media/4.jpg": "/DiceGame/static/media/4.d506abfa80c3613736b1.jpg",
+    "static/media/3.jpg": "/DiceGame/static/media/3.a1c7de2e3d206660fa27.jpg",
+    "static/media/2.jpg": "/DiceGame/static/media/2.96fd488cd37ab5baeed8.jpg",
+    "static/media/1.jpg": "/DiceGame/static/media/1.0d27286fb5b64a07ec97.jpg",
+    "index.html": "/DiceGame/index.html",
+    "main.f226285e.css.map": "/DiceGame/static/css/main.f226285e.css.map",
+    "main.bf5fd5a3.js.map": "/DiceGame/static/js/main.bf5fd5a3.js.map",
+    "787.65175d2f.chunk.js.map": "/DiceGame/static/js/787.65175d2f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f226285e.css",
+    "static/js/main.bf5fd5a3.js"
+  ]
+}
